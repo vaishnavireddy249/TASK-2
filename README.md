@@ -42,7 +42,8 @@ git clone https://github.com/<your-username>/StudentManagementSystem.git
 cd StudentManagementSystem
 javac StudentManagementRecord.java
 java StudentManagementRecord
-
+---
+##Sample Usage
 ===== Student Management System =====
 1. Add Student
 2. View Students
