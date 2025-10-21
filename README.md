@@ -35,10 +35,9 @@ This project demonstrates:
 StudentManagementRecord.java
 
 ## Running the Application
-1. Compile the program
+## 1. Compile the program: 
    javac StudentManagementRecord.java
-
-2. Run the program
+## 2. Run the program: 
    java StudentManagementRecord
 
 ## Example console output
