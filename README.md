@@ -32,18 +32,17 @@ This project demonstrates:
 
 ## 📂 Project Structure
 
----
+StudentManagementRecord.java
 
-## ▶️ Getting Started
+## Running the Application
+1. Compile the program
+   javac StudentManagementRecord.java
 
-### 1️⃣ Clone the Repository
-```bash
-git clone https://github.com/<your-username>/StudentManagementSystem.git
-cd StudentManagementSystem
-javac StudentManagementRecord.java
-java StudentManagementRecord
----
-##Sample Usage
+2. Run the program
+   java StudentManagementRecord
+
+## Example console output
+
 ===== Student Management System =====
 1. Add Student
 2. View Students
@@ -55,3 +54,5 @@ Enter student ID: 101
 Enter student name: Alice
 Enter student marks: 89.5
 ✅ Student added successfully!
+
+
